@@ -2,7 +2,6 @@
 The program calculates and displays the change in price
 for a country club membership over the period.
 
-@author Vlada Foulke
 @version 11/01/2020
 *******************************************************************************/
 #include <iostream>
